@@ -9,7 +9,7 @@
   "tag": "geosite-wechat",
   "type": "remote",
   "format": "source",
-  "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
+  "url": "https://raw.githubusercontent.com/TeaSalo/sing-box-geosite/main/wechat.json",
   "download_detour": "auto"
 }
 ```
@@ -25,3 +25,5 @@
 [@blackmatrix7](https://github.com/blackmatrix7)
 
 [@DivineEngine](https://github.com/DivineEngine)
+
+[@Toperlock](https://github.com/Toperlock/sing-box-geosite)
